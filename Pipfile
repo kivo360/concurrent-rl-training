@@ -1,0 +1,28 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+sklearn = "*"
+keras = "*"
+pandas = "*"
+yfinance = "*"
+pandas-datareader = "*"
+matplotlib = "*"
+ffn = "*"
+plotly = "*"
+tensorflow = "*"
+crayons = "*"
+ray = "*"
+funhandler = "*"
+gym = "*"
+opencv-python = "*"
+loguru = "*"
+funguauniverse = "*"
+stochastic-agent = {editable = true, path = "."}
+
+[dev-packages]
+
+[requires]
+python_version = "3.6"
