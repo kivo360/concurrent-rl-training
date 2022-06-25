@@ -1,7 +1,7 @@
 -i https://pypi.org/simple
 absl-py==0.7.1
 aiodns==1.1.1 ; python_version >= '3.5.2'
-aiohttp==3.5.4 ; python_version >= '3.5.2'
+aiohttp==3.8.1 ; python_version >= '3.5.2'
 apscheduler==3.6.1
 arctic-latest==1.75.0
 arctic==1.79.2
