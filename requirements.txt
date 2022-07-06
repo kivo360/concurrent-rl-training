@@ -65,7 +65,7 @@ kiwisolver==1.1.0
 llvmlite==0.29.0
 locket==0.2.0
 loguru==0.3.2
-lxml==4.4.0
+lxml==4.9.1
 lz4==2.1.10
 markdown==3.1.1
 markupsafe==1.1.1
